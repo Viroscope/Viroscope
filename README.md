@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Viroscope
-- 👀 I’m interested in Minecraft mod develpement.
-- 🌱 I’m currently learning Minecraft mod developement.
-- 💞️ I’m looking to collaborate on Minecraft mod development.
-- 📫 How to reach me ....
+- 👀 I’m interested in women.
+- 🌱 I’m currently learning patience.
+- 💞️ I’m looking to collaborate on code development.
+- 📫 How to donate https://bmc.link/Viroscope....
 
 <!---
 Viroscope/Viroscope is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
